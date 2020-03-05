@@ -1,0 +1,6 @@
+C:\Users\Goce.Kabov\source\repos\ExampleSolution\ConsoleApp.NetFramework\bin\Debug\ConsoleApp.NetFramework.exe.config
+C:\Users\Goce.Kabov\source\repos\ExampleSolution\ConsoleApp.NetFramework\bin\Debug\ConsoleApp.NetFramework.exe
+C:\Users\Goce.Kabov\source\repos\ExampleSolution\ConsoleApp.NetFramework\bin\Debug\ConsoleApp.NetFramework.pdb
+C:\Users\Goce.Kabov\source\repos\ExampleSolution\ConsoleApp.NetFramework\obj\Debug\ConsoleApp.NetFramework.csprojAssemblyReference.cache
+C:\Users\Goce.Kabov\source\repos\ExampleSolution\ConsoleApp.NetFramework\obj\Debug\ConsoleApp.NetFramework.exe
+C:\Users\Goce.Kabov\source\repos\ExampleSolution\ConsoleApp.NetFramework\obj\Debug\ConsoleApp.NetFramework.pdb
